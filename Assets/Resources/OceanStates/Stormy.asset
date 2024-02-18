@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d28db35e050bfa4a99668513c184ea6, type: 3}
+  m_Name: Stormy
+  m_EditorClassIdentifier: 
+  vertexSeedIter: 1233
+  vertexFrequency: 1
+  vertexFrequencyMult: 1.18
+  vertexAmplitude: 0.7
+  vertexAmplitudeMult: 0.82
+  vertexInitialSpeed: 2
+  vertexSpeedRamp: 1.07
+  vertexDrag: 2
+  vertexHeight: 1
+  vertexMaxPeak: 1
+  vertexPeakOffset: 0.96
+  fragmentFrequency: 1
+  fragmentFrequencyMult: 1.18
+  fragmentAmplitude: 0.7
+  fragmentAmplitudeMult: 0.82
+  fragmentInitialSpeed: 2
+  fragmentSpeedRamp: 1.07
+  fragmentDrag: 1.8
+  fragmentMaxPeak: 1
+  fragmentPeakOffset: 0.6
+  normalStrength: 0.16
+  ambient: {r: 0.043137256, g: 0.050980393, b: 0.07058824, a: 1}
+  diffuseReflectance: {r: 0.10980392, g: 0.16470589, b: 0.22745098, a: 1}
+  specularReflectance: {r: 0.22352941, g: 0.3254902, b: 0.44705883, a: 1}
+  shininess: 2
+  specularNormalStrength: 2.66
+  fresnelColor: {r: 0.043137256, g: 0.050980393, b: 0.07058824, a: 0}
+  useTextureForFresnel: 1
+  environmentTexture: {fileID: 8900000, guid: 08ea713d0e79d8e4aa41c53a0bad3fa5, type: 3}
+  fresnelBias: 1
+  fresnelStrength: 0.5
+  fresnelShininess: 1.5
+  fresnelNormalStrength: 1
+  tipColor: {r: 0.1254902, g: 0.1254902, b: 0.1254902, a: 0}
+  tipAttenuation: 4.24

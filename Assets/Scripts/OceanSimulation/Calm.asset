@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d28db35e050bfa4a99668513c184ea6, type: 3}
+  m_Name: Calm
+  m_EditorClassIdentifier: 
+  vertexSeedIter: 1233
+  vertexFrequency: 1
+  vertexFrequencyMult: 1.18
+  vertexAmplitude: 0.7
+  vertexAmplitudeMult: 0.82
+  vertexInitialSpeed: 2
+  vertexSpeedRamp: 1.07
+  vertexDrag: 1
+  vertexHeight: 0.49
+  vertexMaxPeak: 1
+  vertexPeakOffset: 1
+  fragmentFrequency: 1
+  fragmentFrequencyMult: 1.18
+  fragmentAmplitude: 0.7
+  fragmentAmplitudeMult: 0.82
+  fragmentInitialSpeed: 2
+  fragmentSpeedRamp: 1.07
+  fragmentDrag: 1
+  fragmentMaxPeak: 1
+  fragmentPeakOffset: 1
+  normalStrength: 1
+  ambient: {r: 0.15292618, g: 0.23839766, b: 0.41788515, a: 1}
+  diffuseReflectance: {r: 0.082282715, g: 0.30054384, b: 0.6444799, a: 1}
+  specularReflectance: {r: 1, g: 1, b: 1, a: 1}
+  shininess: 2.57
+  specularNormalStrength: 4.09
+  fresnelColor: {r: 0.03137255, g: 0.050980393, b: 0.09803922, a: 0}
+  useTextureForFresnel: 1
+  environmentTexture: {fileID: 8900000, guid: 08ea713d0e79d8e4aa41c53a0bad3fa5, type: 3}
+  fresnelBias: 1
+  fresnelStrength: 0.5
+  fresnelShininess: 1.68
+  fresnelNormalStrength: 1
+  tipColor: {r: 1, g: 1, b: 1, a: 0}
+  tipAttenuation: 7.25
