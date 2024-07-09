@@ -8,7 +8,7 @@ All materials used were made personally or generated using a neural network http
 
 https://docs.google.com/document/d/1-oZEQlpgjUe3G0vhUs1llHM25jSHjEHf/edit?usp=sharing&ouid=109394396229438201734&rtpof=true&sd=true
 
-# my job
+# My job
 
 In this project my work was to implement the following classes: 
 * 3d models of interactive objects and environments
@@ -20,7 +20,7 @@ In this project my work was to implement the following classes:
 * Menu
 * Conductor
 
-# team
+# Team
 
 3d models raft and shark, all animation and shark scripts  - https://t.me/Bunn1k
 Water shade, sound and weather - https://t.me/sheenkou
